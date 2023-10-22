@@ -1,0 +1,4 @@
+#Sun Oct 22 10:59:12 BRT 2023
+base.0=C\:\\Users\\euler\\Documents\\Bootcamp DIO - Santander\\Modulo 4\\hive\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
